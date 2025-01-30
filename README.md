@@ -25,8 +25,7 @@ This is a simple clone of Netflix's UI built using HTML & CSS.
 
 2. Open `index.html` in your browser.
 
-![Screenshot 2025-01-30 151324](https://github.com/user-attachments/assets/4b883205-0f6d-43e9-b8f9-3eda3ce15a9d)
-
+![image](https://github.com/user-attachments/assets/facd6a8e-bb2f-45e8-ad77-a7a2dcc906c5)
 
 
 
@@ -34,6 +33,16 @@ This is a simple clone of Netflix's UI built using HTML & CSS.
 
 - HTML
 - CSS
+
+## Output Screenshots
+![image](https://github.com/user-attachments/assets/e559e947-6d94-48d4-ad72-90d775ecec5c)
+![image](https://github.com/user-attachments/assets/9e7c665a-19bc-47d2-a45e-5b26b287b5f9)
+![image](https://github.com/user-attachments/assets/5f81e16d-0411-4a89-a32a-b60eecdd4fa5)
+![image](https://github.com/user-attachments/assets/ccc0faf5-6860-4288-af02-9ff73c389e19)
+
+
+
+
 
 ## Contributing
 
